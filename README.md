@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Arián 👋
 
 <!--
 **ariandriussi/ariandriussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Where to find me
+
+- [Twitter](https://twitter.com/DriussiArian)
+- [Facebook](https://www.facebook.com/arian.driussi/)
